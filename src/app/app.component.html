@@ -26,12 +26,12 @@
           [(ngModel)]="username"
         />
       </div>
-      <button type="submit" class="btn btn-primary">Submit</button>
+      <button type="submit" class="btn btn-primary">Login</button>
     </form>
   </div>
 
   <div *ngIf="channel" class="container">
-    <h3 class=" text-center">Stream Messaging</h3>
+    <h3 class=" text-center">Chaty</h3>
     <div class="messaging">
       <div class="inbox_msg">
         <div class="inbox_people">
@@ -45,9 +45,7 @@
               <div class="chat_list">
                 <div class="chat_people">
                   <div class="chat_ib">
-                    <h5>
-                      {{ channel.data.name }}
-                    </h5>
+                    <h5>Chatroom</h5>
                     <p>
                       {{
                         channel.state.messages[

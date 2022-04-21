@@ -35,7 +35,7 @@ app.post('/join', async (req, res) => {
 
   const admin = { id: 'admin' };
   const channel = serverSideClient.channel('team', 'talkshop', {
-    name: 'Talk Shop',
+    name: 'Chatroom',
     created_by: admin,
   });
 
