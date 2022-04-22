@@ -26,8 +26,9 @@ Instant Web Based Messanger
 
 ## Video Demonstration
 
-<<<<<<< HEAD
 > 1:18 minute demo:
-=======
-https://user-images.githubusercontent.com/46537705/164775022-8b877b20-60cf-4376-9ce7-f272572ac6f1.mp4
->>>>>>> cad65cf14cbeddc8feb1e9e18ebd591cbe958a18
+
+
+https://user-images.githubusercontent.com/46537705/164775839-8a203241-3e89-439c-bf36-57e6aced71d9.mp4
+
+
