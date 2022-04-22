@@ -26,4 +26,4 @@ Instant Web Based Messanger
 
 ## Video Demonstration
 
-https://im5.ezgif.com/tmp/ezgif-5-2f1740068a.gif
+https://user-images.githubusercontent.com/46537705/164775022-8b877b20-60cf-4376-9ce7-f272572ac6f1.mp4
