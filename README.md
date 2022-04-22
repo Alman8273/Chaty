@@ -1,4 +1,4 @@
-# Chaty 
+# Chaty
 
 Instant Web Based Messanger
 
@@ -14,8 +14,6 @@ Instant Web Based Messanger
 
 ---
 
-
-
 ## Build instructions
 
 - Clone this repository and `cd` into it.
@@ -23,3 +21,9 @@ Instant Web Based Messanger
 - Update `.env`  with your Stream credentials.
 - Run `node server.js` from within the project root to start the Node server on port 5500.
 - Run `ng serve` from the project root to start the Angular app development server. View http://localhost:4200 in your browser.
+
+---
+
+## Video Demonstration
+
+https://im5.ezgif.com/tmp/ezgif-5-2f1740068a.gif
